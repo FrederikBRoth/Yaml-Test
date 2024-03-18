@@ -2,4 +2,4 @@ ApplicationId:
   description: Ansøgningsid
   type: string
   format: uuid
-  example: fe4c7382-2fc8-4732-b050-97d23560e115
+  example: somethings
